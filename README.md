@@ -56,7 +56,7 @@ Before running the Forest Simulation Game, ensure that you have the following in
 
 
 
-You can list the contributors to your project here, along with their contact information.
+
 
 ## License
 
