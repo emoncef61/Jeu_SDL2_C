@@ -52,9 +52,8 @@ Before running the Forest Simulation Game, ensure that you have the following in
 
 ## Screenshots
 
-![Gameplay](screenshot_gameplay.png)
+![Gameplay](gameplay.gif)
 
-![Game Over](screenshot_game_over.png)
 
 
 You can list the contributors to your project here, along with their contact information.
